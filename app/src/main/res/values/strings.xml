@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WeatherMVPexample</string>
+    <string name="update_the_weather">Update the Weather</string>
 </resources>
